@@ -36,4 +36,15 @@ I’m a team-oriented developer who enjoys exchanging ideas, learning new techno
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 --- [![](https://visitcount.itsvg.in/api?id=PMC&icon=0&color=0)](https://visitcount.itsvg.in)<br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://github.com/pmc">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmc&theme=transparent" />
+  </a>
+  <a href="https://github.com/pmc">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmc&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/pmc">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmc&theme=transparent" />
+  </a>
+  <a href="https://github.com/pmc">
+</p>
