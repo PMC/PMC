@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pierre Chateau</h1>
 
-### Experienced System Developer & Tester
+### 📄Experienced System Developer & Tester
 
 Also known as **TechWiz** (and occasionally **Inspector Gadget**) for my passion for all things tech and gadgets.
 
