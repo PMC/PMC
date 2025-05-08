@@ -2,15 +2,9 @@
 
 ### 📄Experienced System Developer & Tester
 
-Also known as **TechWiz** (and occasionally **Inspector Gadget**) for my passion for all things tech and gadgets.
+Also known as **TechWiz** (and occasionally **Inspector Gadget**) for my passion for all things Tech and Tech related gadgets.
 
-I bring several years of experience across all phases of system development: from analysis and design to development, testing, delivery, documentation, and support. I've contributed to projects using both traditional Waterfall models and Agile methodologies like Scrum and Kanban.
-
-I’m a team-oriented developer who enjoys exchanging ideas, learning new technologies, and continuously expanding my expertise. I'm known for being:
-
-- **Collaborative** – Actively contributing to team goals and knowledge sharing.
-- **Smart** – Tackling challenges with innovative solutions.
-- **Self-driven** – Taking initiative and working independently when needed.
+I Love to Ride EUCs!
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
