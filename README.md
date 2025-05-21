@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Pierre Chateau</h1>
+<h1>Hi there! I am Pierre Chateau</h1>
 
 ![animated avatar](res/avatar_wave_hello_coffee.webp)
 
